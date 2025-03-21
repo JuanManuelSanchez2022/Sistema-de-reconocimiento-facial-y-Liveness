@@ -11,7 +11,7 @@ python-dateutil==2.8.2
 matplotlib==3.7.2
 contourpy==1.1.0
 fonttools==4.42.1
-mediapipe==0.8.6.2
+mediapipe==0.10.21
 pycparser==2.21
 pyparsing==3.0.9
 cycler==0.11.0
